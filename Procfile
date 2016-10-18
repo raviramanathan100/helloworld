@@ -1,1 +1,1 @@
-web: java -jar dist/hello-world.war
+web:
