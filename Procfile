@@ -1,1 +1,1 @@
-worker: 1
+web: sh dist
