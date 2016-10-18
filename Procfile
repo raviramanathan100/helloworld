@@ -1,1 +1,1 @@
-web:
+web: java -jar webapp-runner.jar dist/hello-world.war
